@@ -1,3 +1,22 @@
+# Deployment of scalable and secure Django Application with Kubernetes
+
+---
+
+| &nbsp; | &nbsp; |
+| --- | ----------- |
+| **Objective** | - Deployment of scalable and secure Django Application with Kubernetes <br>- Scale up or down the number of running Pods using the replicas in Deployment manifest |
+| **Approach** | - Build Kubernetes Cluster on AWS from scratch with Minikube <br>- Setup and manage Docker containers for Django and React Application into Kubernetes Pods <br>- Manage Deployment, Replication, Auto healing, Auto scaling for Kubernetes Cluster <br>- Manage Network and Services with Host IP allocation |
+| **Impact** | - Reduced Downtime by 75% on Production Environments</br>- Successfully Managed Deployment, Replication, Auto healing, Auto scaling for Kubernetes Cluster |
+<br>
+
+**Primary Technology:** Kubernetes, aws EC2 service, Docker, Minikube
+<br><br>
+
+
+<br><br>
+---
+
+
 ## 1. Build Kubernetes Cluster on AWS from scratch with Minikube
 
 ### 1.1 Launch EC2 instance on AWS 
